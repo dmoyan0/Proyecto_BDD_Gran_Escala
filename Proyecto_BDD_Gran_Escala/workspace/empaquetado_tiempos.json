@@ -1,0 +1,47 @@
+{
+    "EarthquakesChile_2000-2024_1pct.csv": {
+        "AVRO-null": 0.02468,
+        "AVRO-deflate": 0.0245,
+        "AVRO-snappy": 0.02375,
+        "PARQUET-NONE": 0.01937,
+        "PARQUET-SNAPPY": 0.01698,
+        "PARQUET-GZIP": 0.0182,
+        "PARQUET-LZ4": 0.01572
+    },
+    "EarthquakesChile_2000-2024_10pct.csv": {
+        "AVRO-null": 0.22305,
+        "AVRO-deflate": 0.2543,
+        "AVRO-snappy": 0.22637,
+        "PARQUET-NONE": 0.14689,
+        "PARQUET-SNAPPY": 0.14802,
+        "PARQUET-GZIP": 0.16962,
+        "PARQUET-LZ4": 0.14713
+    },
+    "EarthquakesChile_2000-2024_25pct.csv": {
+        "AVRO-null": 0.57816,
+        "AVRO-deflate": 0.60594,
+        "AVRO-snappy": 0.56486,
+        "PARQUET-NONE": 0.3881,
+        "PARQUET-SNAPPY": 0.37261,
+        "PARQUET-GZIP": 0.43634,
+        "PARQUET-LZ4": 0.37529
+    },
+    "EarthquakesChile_2000-2024_50pct.csv": {
+        "AVRO-null": 1.15138,
+        "AVRO-deflate": 1.21575,
+        "AVRO-snappy": 1.15152,
+        "PARQUET-NONE": 0.77122,
+        "PARQUET-SNAPPY": 0.77585,
+        "PARQUET-GZIP": 0.83723,
+        "PARQUET-LZ4": 0.7672
+    },
+    "EarthquakesChile_2000-2024.csv": {
+        "AVRO-null": 2.29346,
+        "AVRO-deflate": 2.45873,
+        "AVRO-snappy": 2.31664,
+        "PARQUET-NONE": 1.53747,
+        "PARQUET-SNAPPY": 1.56181,
+        "PARQUET-GZIP": 1.69163,
+        "PARQUET-LZ4": 1.5603
+    }
+}
