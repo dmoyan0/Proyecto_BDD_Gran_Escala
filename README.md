@@ -75,6 +75,7 @@
 </table>
 
 ## Gráfica
+![Figura1](/Proyecto_BDD_Gran_Escala/workspace/image/Figure_1.png)
 
 ## Respuestas
 Responda las siguientes preguntas:
